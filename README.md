@@ -8,6 +8,7 @@
 
 📫 How to reach me:https://x.com/R4kibul_1slam
 
-Robin150497/Robin150497 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I’m Rakibul Islam — online you’ll find me as @R4kibul_1slam.
+I’m a passionate learner, creative thinker, and digital entrepreneur from Bangladesh. I specialize in web development, creative design, and Amazon FBA Wholesale — helping brands grow online and tell their stories visually and strategically.
+
+I’m currently deepening my skills in frontend development (HTML, CSS, JavaScript), UI/UX design, and building a strong foundation in e-commerce through Amazon FBA (Wholesale model). My journey has been all about experimenting, learning by doing, and turning ideas into action.
